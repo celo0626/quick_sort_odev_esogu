@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+*.o
+*.hi
+results/quicksort_hs
+results/quicksort_cpp
